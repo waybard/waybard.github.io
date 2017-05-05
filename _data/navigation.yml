@@ -1,0 +1,54 @@
+- title: Inicio
+  url: "/"
+  side: left
+
+- title: Quienes somos
+  url: "/quienes-somos/"
+  side: left
+  dropdown:
+  - title: "Misión y Visión"
+    url: "/mision-vision/"
+  - title: "Política de Calidad"
+    url: "/politica-calidad/"
+  - title: "Acordada creación"
+    url: "/acordada-creacion/"
+  - title: "Organigrama"
+    url: "/organigrama/"
+  - title: "Unidades en las que interviene"
+    url: "/unidades-intervencion/"
+  
+
+- title: "Planificación"
+  url: "/planificacion/"
+  side: left
+  dropdown:
+  - title: "Item 1"
+    url: "/design/grid/"
+  - title: "Item 2"
+    url: "/design/typography/typography/"
+  
+- title: "Proyectos"
+  url: "/proyectos/"
+  side: left
+  dropdown:
+  - title: "Proyecto 1"
+    url: "/design/header-full-width-image/"
+  - title: "Proyecto 2"
+    url: "/design/header-image-pattern/"
+  - title: "Proyecto 3"
+    url: "/design/header-image-color/"
+
+- title: Noticias
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Archivo"
+    url: "/blog/archive/"
+
+- title: "Busqueda"
+  url: "/busqueda/"
+  side: right
+
+- title: "Contacto"
+  url: "/contacto/"
+  side: right
